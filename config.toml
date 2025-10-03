@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+textColor = "#FFEAA6"          # warm moonlight yellow
+primaryColor = "#FFC44D"       # for buttons/accents
+backgroundColor = "#0A0D1A"    # deep night sky
+secondaryBackgroundColor = "#11162A"
+font = "sans serif"
